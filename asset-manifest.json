@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/worksite-react-app/static/css/main.cfd86cd2.css",
-    "main.js": "/worksite-react-app/static/js/main.c9668175.js",
+    "main.js": "/worksite-react-app/static/js/main.77e04038.js",
     "static/media/avatar.svg": "/worksite-react-app/static/media/avatar.c758d4076ce7f277d5b8cfa5e6e7dee5.svg",
     "static/media/logo.svg": "/worksite-react-app/static/media/logo.8aa9a46e210505a0c9dc074e2bd22808.svg",
     "static/media/thirdjoblogo.svg": "/worksite-react-app/static/media/thirdjoblogo.7a348cd1369956be5a2d5a7a10b58d94.svg",
@@ -14,10 +14,10 @@
     "static/media/checkmarkVerified.svg": "/worksite-react-app/static/media/checkmarkVerified.69b6e76165a111ab2be9a0ae20e0e91b.svg",
     "static/media/downArrow.svg": "/worksite-react-app/static/media/downArrow.c26b48220758dd8a7fbbf3d14425485d.svg",
     "main.cfd86cd2.css.map": "/worksite-react-app/static/css/main.cfd86cd2.css.map",
-    "main.c9668175.js.map": "/worksite-react-app/static/js/main.c9668175.js.map"
+    "main.77e04038.js.map": "/worksite-react-app/static/js/main.77e04038.js.map"
   },
   "entrypoints": [
     "static/css/main.cfd86cd2.css",
-    "static/js/main.c9668175.js"
+    "static/js/main.77e04038.js"
   ]
 }
