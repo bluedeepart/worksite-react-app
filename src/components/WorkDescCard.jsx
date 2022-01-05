@@ -21,7 +21,7 @@ function WorkDescCard({ job, index }) {
         element={<Navigate to="/looking-for-a-freelance-frontend-developer" />}
       /> */}
       <Route
-        path={`/${linkUrl}`}
+        path={`/worksite-react-app/${linkUrl}`}
         element={
           <>
             <Card>

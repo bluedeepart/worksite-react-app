@@ -12,7 +12,7 @@ function WorkDesc({ cssClass }) {
     <div className={cssClass}>
       {isFiltering ? null : (
         <Routes>
-          <Route index element={<FirstJobCard />} />
+          <Route path="/worksite-react-app" element={<FirstJobCard />} />
         </Routes>
       )}
       {isFiltering

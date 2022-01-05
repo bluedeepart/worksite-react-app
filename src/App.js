@@ -1,10 +1,10 @@
 import { WorkContextProvider } from "./context/workContext";
 import {
   BrowserRouter as Router,
-  Navigate,
   Route,
   Routes,
   useParams,
+  Navigate,
 } from "react-router-dom";
 import Filter from "./components/Filter";
 import Header from "./components/Header";
@@ -29,8 +29,14 @@ function App() {
                   <WorkList cssCLass="lg:w-sm md:w-2/5" />
                   <WorkDesc cssClass="md:ml-6 lg:ml-8 lg:w-desc md:w-3/5 absolute top-0 left-0 h-full bg-dark md:static" />
                   <Routes>
-                    <Route index element={param.slug} />
-                    <Route path="/job/:slug" element={param.slug}></Route>
+                    <Route
+                      path="/"
+                      element={<Navigate to="/worksite-react-app" />}
+                    />
+                    <Route
+                      path="/worksite-react-app/:slug"
+                      element={param.slug}
+                    ></Route>
                   </Routes>
                 </section>
               </div>

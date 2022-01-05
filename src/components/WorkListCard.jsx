@@ -21,7 +21,7 @@ function WorkListCard({ job, index }) {
     <Card>
       <Link
         to={{
-          pathname: `/${linkUrl}`,
+          pathname: `/worksite-react-app/${linkUrl}`,
         }}
       >
         <div className="flex items-start space-x-4 mb-4">
