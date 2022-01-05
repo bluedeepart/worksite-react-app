@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/worksite-react-app/static/css/main.cfd86cd2.css",
+    "main.js": "/worksite-react-app/static/js/main.c9668175.js",
+    "static/media/avatar.svg": "/worksite-react-app/static/media/avatar.c758d4076ce7f277d5b8cfa5e6e7dee5.svg",
+    "static/media/logo.svg": "/worksite-react-app/static/media/logo.8aa9a46e210505a0c9dc074e2bd22808.svg",
+    "static/media/thirdjoblogo.svg": "/worksite-react-app/static/media/thirdjoblogo.7a348cd1369956be5a2d5a7a10b58d94.svg",
+    "static/media/fourthjoblogo.svg": "/worksite-react-app/static/media/fourthjoblogo.3a5c0db63f06520358066ffa1db178db.svg",
+    "index.html": "/worksite-react-app/index.html",
+    "static/media/firstjoblogo.svg": "/worksite-react-app/static/media/firstjoblogo.d624c6ffe92ac26ab28493672cc0d710.svg",
+    "static/media/location.svg": "/worksite-react-app/static/media/location.4fc8a2fd39de132c0aa577889d7fb044.svg",
+    "static/media/secondjoblogo.svg": "/worksite-react-app/static/media/secondjoblogo.965155910b1d62efe18413f7c45d1b03.svg",
+    "static/media/checkmarkNotVerified.svg": "/worksite-react-app/static/media/checkmarkNotVerified.9d560847c996ca85589642417847cde0.svg",
+    "static/media/checkmarkVerified.svg": "/worksite-react-app/static/media/checkmarkVerified.69b6e76165a111ab2be9a0ae20e0e91b.svg",
+    "static/media/downArrow.svg": "/worksite-react-app/static/media/downArrow.c26b48220758dd8a7fbbf3d14425485d.svg",
+    "main.cfd86cd2.css.map": "/worksite-react-app/static/css/main.cfd86cd2.css.map",
+    "main.c9668175.js.map": "/worksite-react-app/static/js/main.c9668175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd86cd2.css",
+    "static/js/main.c9668175.js"
+  ]
+}
