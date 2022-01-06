@@ -11,7 +11,7 @@ function FilterBtn({ direction }) {
     <div className={`text-${direction} flex justify-between`}>
       <Routes>
         <Route
-          path="/:slug"
+          path="/worksite-react-app/:slug"
           element={
             <Button
               cssClass="text-white bg-prime mb-6 inline-flex items-center md:hidden"
